@@ -1,3 +1,6 @@
-This is a fake homework assignment:
+Directories and URLs
 
-You should create a web page that is awesome.
+1) What is an absolute URL? What is a relative URL?
+2) In the file third_page/index.html create links to other files on the site (like hello.txt and the main index.html).
+3) In the same file, create links to external things that are absolute links.
+4) Finally, create an absolute link to something on the nitrous server.
