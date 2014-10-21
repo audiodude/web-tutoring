@@ -1,0 +1,52 @@
+This week we learned about how to label HTML elements with "id" and "class" attributes
+in order to refer to them in CSS.
+
+For this assignment, create a new HTML document somewhere in your main directory, maybe
+a "classes" folder with an "index.html" file underneath it.
+
+In the index.html file, create the basic structure of an HTML document, with a head,
+title and body.
+
+Underneath the head element, create a <style> element (including the </style> tag).
+
+In the body of the document use the following basic HTML structure:
+
+<div>
+ <div>The very first div of the first section</div>
+ <div>Another div in the first section</div>
+</div>
+<div>
+  <p>A <span>paragraph</span> in the second section</div>
+  <div>A div in the second section</div>
+</div>
+
+Now give the div on line 14 of this document the id "top".
+
+Give the div on line 18 (the second top level div) the id "bottom".
+
+Give the first div in the first section and the first (and only) paragraph in the
+second div the class "first".
+
+Give the second div in the first section the class "alternate".
+
+Give the div in the second section the classes "alternate" and "low-priority".
+
+Give the span the class "heavy".
+
+
+Finally, you should add some styles for your ids and classes. Remember, these go into
+the <style> block in your <head> section.
+
+Assign a background-color to "top", "alternate" and "low-priority".
+
+Assign a different font-size for "top".
+
+Assign a different font-size to all paragraphs on the page.
+
+Assign a text color for "alternate".
+
+Make the element with class "heavy" have a font-weight of bold.
+
+
+Be sure to run your HTTP server and preview your changes often. It will likely be easier
+to debug as you go than all at the end.
