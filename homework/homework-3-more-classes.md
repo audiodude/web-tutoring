@@ -19,3 +19,7 @@ your web root. Then add the following style declarations:
 	 of `400px`.
 10. Give the image with id `sloan-pic` a `max-width` of `300px` and set its
 		`float` value to `right`.
+11. For any div that has both the `post-title` and the `primary` classes,
+		make it `font-size` of `20px`.
+12. For any `post-body` that also has the class `older`, make it so the color
+		of the text is a grey.
